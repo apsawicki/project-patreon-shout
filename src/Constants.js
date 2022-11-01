@@ -1,7 +1,7 @@
 
 const prod = {
     url: {
-        API_URL: 'http://patreon-shout-gateway.us-east-2.elasticbeanstalk.com'
+        API_URL: 'https://patreon-shout-gateway.us-east-2.elasticbeanstalk.com'
     }
 };
 

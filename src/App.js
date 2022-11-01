@@ -29,6 +29,7 @@ function App() {
         <Route path="/home" element={<Home/>}/>
         <Route path="/lists" element={<ListPage/>}/>
         <Route path="/settings" element={<SettingsPage/>}/>
+
       </Routes>
     </div>
   );
